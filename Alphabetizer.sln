@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphabetizer", "Alphabetizer.csproj", "{D51F9E0C-89B4-48A3-A2A8-2A659A52172B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphabetizer", "XMLSorter\Alphabetizer.csproj", "{D51F9E0C-89B4-48A3-A2A8-2A659A52172B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
