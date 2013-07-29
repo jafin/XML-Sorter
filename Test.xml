@@ -1,0 +1,19 @@
+<Collection>
+   <CollectionB>
+      <B2 Text="1" Stat="5"></B2>
+      <A2 Text="2" Type="3" Stat="7"></A2>
+      <A1></A1>
+      <B1 typeName="2">		
+		  <B22></B22>
+		  <A22></A22>
+		  <A12></A12>
+	  </B1>
+      <B1 typeName="1"></B1>
+   </CollectionB>
+   <CollectionA>
+      <B2 Echo="1" Bravo="1" Tango="1" Alpha="1"></B2>
+      <A2></A2>
+      <A1></A1>
+      <B1></B1>
+   </CollectionA>
+</Collection>

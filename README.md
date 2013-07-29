@@ -1,4 +1,11 @@
-XML-Sorter
-==========
+XML Alphabetizer (Fork)
+=======================
 
-Clone of the Application XML Alphabetizer on codeplex
+Source: http://www.codeproject.com/Articles/166357/XML-Alphabetizer
+By Matt Heidenreich.
+
+Changes
+-------
+Fixed a bug where the text content of elements would be stripped from the sort method.
+
+
